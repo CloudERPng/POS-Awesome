@@ -69,7 +69,7 @@
         </v-menu>
       </div>
       <v-btn text color="grey" @click="go_desk">
-        <span right>Erpnext</span>
+        <span right>CloudERP</span>
       </v-btn>
     </v-app-bar>
     <v-navigation-drawer
